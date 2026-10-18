@@ -37,12 +37,6 @@ Currently, I am exploring the fields listed above with the goal of producing mea
 *Co-Author*  
 *Status:* Under review, *Journal of Precision Engineering* (Elsevier).
 
----
-
-## 🚀 Featured Software Project
-
-**[Wireless Link Simulator (BPSK + MRC)](https://github.com/jeyamaryjts-cmd/wireless-link-simulator)**  
-A MATLAB simulation investigating how real-world impairments (MMSE channel estimation, spatial correlation) degrade the reliability of diversity combining in Rayleigh fading channels.
 
 ---
 
